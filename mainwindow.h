@@ -1,3 +1,4 @@
+//#BEGINYg6egVO0oM1PSyioQJhWdg==END#
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
