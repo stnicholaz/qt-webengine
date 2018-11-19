@@ -11,7 +11,7 @@ MainWindow::MainWindow(QWidget *parent) :
     this->resize(1024,700);
 
     createWebEngineView();
-    this->loadURL("http://www.baidu.com/");
+    this->loadURL("https://www.huabaoex.com/");
 }
 
 void MainWindow::createWebEngineView()
