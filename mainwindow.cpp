@@ -11,6 +11,7 @@ MainWindow::MainWindow(QWidget *parent) :
     this->resize(1024,700);
 
     createWebEngineView();
+    //this->loadURL("hnnnb://hnnnb.com/");
     this->loadURL("https://www.hnnnb.com/");
 }
 
